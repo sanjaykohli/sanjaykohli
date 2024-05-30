@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayArcher9
 - 👀 I’m interested !in you
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Webdevelopment and Appdevelopment projects
+- 💞️ I’m looking to collaborate on fullstack projects
 - 📫 How to reach me: https://www.linkedin.com/in/sanjay-kohli-59849b300/
 
 <!---
