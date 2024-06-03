@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayArcher9&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayArcher9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+###  Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
