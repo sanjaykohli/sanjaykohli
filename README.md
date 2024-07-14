@@ -2,7 +2,7 @@
 - 👀 I’m interested !in you
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on fullstack projects
-- 📫 How to reach me: https://www.linkedin.com/in/sanjay-kohli-59849b300/
+- 📫 How to reach me: https://www.linkedin.com/in/sanjaykohli24/
 
 <!---
 JayArcher9/JayArcher9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
