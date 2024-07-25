@@ -1,4 +1,4 @@
-#✨ Hi I'm Sanjay:
+# ✨ Hi I'm Sanjay:
 🔭 I’m currently working on collaborative projects sharing website<br>👯 I’m looking to collaborate on Development projects<br>🌱 I’m currently learning Next framework<br>📫 How to reach me: https://www.linkedin.com/in/sanjaykohli24/
 
 
