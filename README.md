@@ -6,5 +6,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanjaykohli&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykohli&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3347273" style="border:none;" width="400" height="200"></iframe>
 ---
