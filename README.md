@@ -1,7 +1,7 @@
 # ✨ Hi I'm Sanjay:
 Systems Engineer | 🔭 I'm currently working on cybersecurity research platform | 🌱 I'm currently learning how to train AI locally<br>📫 How to reach me: https://www.linkedin.com/in/sanjaykohli24/
 
-# 📚 My Repositories (26 Total):
+# 📚 My Repositories:
 1. [Collaborative-interest-application](https://github.com/sanjaykohli/Collaborative-interest-application) - JavaScript
 2. [sanjaykohli](https://github.com/sanjaykohli/sanjaykohli) - Config files for my GitHub profile
 3. [Blogs](https://github.com/sanjaykohli/Blogs) - JavaScript | [Live Demo](https://blogs-rho-seven.vercel.app)
